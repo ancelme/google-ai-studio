@@ -1,0 +1,6 @@
+{
+  "name": "St. Slas Primary School Management System",
+  "description": "School management system for St. Slas Primary School in Gatsibo District, Kabarore Sector, Marimba Cell, Kibondo Village, featuring role-based dashboards for admins, teachers, students, and parents, student admissions, and class timetables in Kinyarwanda, French, and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
